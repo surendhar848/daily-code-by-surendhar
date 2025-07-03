@@ -1,2 +1,13 @@
-# daily-code-by-surendhar
-A daily coding habit tracker where I practice and push code across frontend (React.js), backend (Laravel), SQL, Git, and DevOps tools. Focused on building real-world skills, solving problems, and contributing consistent daily improvements toward becoming a better software engineer.
+# 💻 Daily Code Practice by Surendhar
+
+Welcome to my daily code practice repo! 🚀  
+This repository is where I commit daily progress as I work on:
+
+- React.js component building
+- Laravel backend structure (routes, controllers, views)
+- SQL query writing and optimization
+- DevOps tools exploration (Git, CI/CD basics, shell scripts)
+- DSA problems from HackerRank
+- Small UI & full-stack projects
+
+
